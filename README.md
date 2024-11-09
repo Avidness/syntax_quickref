@@ -63,7 +63,6 @@ Your input JSON file (located in tests/bfs/test_input.json) should look like thi
 An expected output for this input in tests/bfs/expected_output.json:
 
 ```json
-Copy code
 {
     "bfs_order": ["A", "B", "C", "D", "E", "F"]
 }
